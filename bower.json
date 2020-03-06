@@ -1,0 +1,23 @@
+{
+  "name": "authphp",
+  "homepage": "https://github.com/luJava/authphp",
+  "authors": [
+    "Luciano Correia <lucianocorreia.java@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "font-awesome": "4.7.0",
+    "ionicons": "2.0.0"
+  }
+}

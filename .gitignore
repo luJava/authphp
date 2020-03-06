@@ -1,0 +1,7 @@
+
+vendor/
+.vscode/
+.settings/
+.buildpath
+.project
+public/assets/components
